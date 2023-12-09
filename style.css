@@ -1,0 +1,16 @@
+
+h1{
+    color: aliceblue;
+    background-color: orange;
+    margin-top: 0px;
+    text-align: left;
+}
+
+#Instructions{
+    color: aliceblue;
+    background-color: orange;
+    margin-top: 0px;
+    text-align: right;
+    border-width: 2px;
+    border-color: aliceblue;
+}
